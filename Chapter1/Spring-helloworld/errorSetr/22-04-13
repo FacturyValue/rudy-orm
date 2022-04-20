@@ -1,0 +1,1 @@
+Exception in thread "main" java.lang.ClassCastException: org.springframework.boot.web.servlet.filter.OrderedCharacterEncodingFilter cannot be cast to com.springstack.demo.filter.MyCharacterEncodingFilter
